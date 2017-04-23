@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LicAutomation_Prabhakantha", "LicAutomation_Prabhakantha\LicAutomation_Prabhakantha.csproj", "{F3C2458A-57DC-40CC-83F9-1EA59FBA865C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LicAutomation_PrabhakanthaTests", "LicAutomation_PrabhakanthaTests\LicAutomation_PrabhakanthaTests.csproj", "{56D3BF27-0D38-4CD2-A111-F8341A0BF5F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3C2458A-57DC-40CC-83F9-1EA59FBA865C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3C2458A-57DC-40CC-83F9-1EA59FBA865C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3C2458A-57DC-40CC-83F9-1EA59FBA865C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3C2458A-57DC-40CC-83F9-1EA59FBA865C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56D3BF27-0D38-4CD2-A111-F8341A0BF5F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56D3BF27-0D38-4CD2-A111-F8341A0BF5F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56D3BF27-0D38-4CD2-A111-F8341A0BF5F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56D3BF27-0D38-4CD2-A111-F8341A0BF5F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
